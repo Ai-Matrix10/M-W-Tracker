@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack Android",
+  "description": "Native Android workout and nutrition tracker with local Room DB persistence, 7-day progress dashboard, and Dark Mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
